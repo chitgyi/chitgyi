@@ -6,16 +6,16 @@
 ### Connect with me:
 
 <!-- twitter link with icon -->
-<a href="https://twitter.com/chityeaung" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/Chit_Ye_Aung" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter icon" />
 <!-- instagram link with icon -->
-<a href="https://www.instagram.com/chityeaung/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/chit_ye_aung" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram icon" />
 <!-- facebook link with icon -->
-<a href="https://www.facebook.com/chityeaung" target="_blank" rel="noopener noreferrer">
+<a href="https://www.facebook.com/fb.chityeaung" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="facebook icon" />
 <!-- linkedin link with icon -->
-<a href="https://www.linkedin.com/in/chityeaung/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/chityeaung" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin icon" />
 
 <!--START_SECTION:waka-->
