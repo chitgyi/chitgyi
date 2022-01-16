@@ -18,6 +18,9 @@
 <a href="https://www.linkedin.com/in/chityeaung" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin icon" />
 
+<!-- horizontal line -->
+<hr />
+
 <!--START_SECTION:waka-->
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
