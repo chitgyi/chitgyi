@@ -5,10 +5,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Chit_Ye_Aung | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="chityeaung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="chit_ye_aung | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="fb.chityeaung | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<!-- twitter link with icon -->
+<a href="https://twitter.com/chityeaung" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter icon" />
+<!-- instagram link with icon -->
+<a href="https://www.instagram.com/chityeaung/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram icon" />
+<!-- facebook link with icon -->
+<a href="https://www.facebook.com/chityeaung" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="facebook icon" />
+<!-- linkedin link with icon -->
+<a href="https://www.linkedin.com/in/chityeaung/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin icon" />
 
 <!--START_SECTION:waka-->
 
