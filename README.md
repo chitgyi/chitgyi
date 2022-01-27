@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--524%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--523%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 185 Contributions in the Year 2022
+> 🏆 208 Contributions in the Year 2022
  > 
-> 📦 123.9 kB Used in GitHub's Storage 
+> 📦 124.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,11 +45,11 @@
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     12 repos            ███████░░░░░░░░░░░░░░░░░░   30.77% 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-Blade                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26%
+Dart                     12 repos            ███████░░░░░░░░░░░░░░░░░░   30.0% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Blade                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
@@ -59,5 +59,5 @@ PHP                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/chitgyi/chitgyi/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2022 18:48:01 UTC
+ Last Updated on 27/01/2022 18:51:19 UTC
 <!--END_SECTION:waka-->
