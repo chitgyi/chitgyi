@@ -1,8 +1,5 @@
 ### Hi, I'm Chit Ye Aung
 
-- 🔭 I’m currently working at Codigo Company as Senior Flutter Developer ...
-- 🌱 I’m currently learning Kotlin, Solidity, Blockchain...
-
 ### Connect with me:
 
 <!-- twitter link with icon -->
