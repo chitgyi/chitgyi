@@ -1,23 +1,4 @@
-### Hi, I'm Chit Ye Aung
-
-### Connect with me:
-
-<!-- twitter link with icon -->
-<a href="https://twitter.com/Chit_Ye_Aung" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Chit Ye Aung's Twitter" />
-  </a>
-<!-- instagram link with icon -->
-<a href="https://www.instagram.com/chit_ye_aung" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Chit Ye Aung's Instagram" />
-  </a>
-<!-- facebook link with icon -->
-<a href="https://www.facebook.com/fb.chityeaung" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Chit Ye Aung's Facebook" />
-  </a>
-<!-- linkedin link with icon -->
-<a href="https://www.linkedin.com/in/chityeaung" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Chit Ye Aung's LinkedIn" />
-  </a>
+### A software engineer who loves computer science and pretty girls :D
 
 <!-- horizontal line -->
 <hr />
