@@ -1,4 +1,4 @@
-name: Summery-Profile-Card
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule: # execute every 24 hours
@@ -14,8 +14,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
-        env:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
           GITHUB_TOKEN: ${{ secrets.GITHUB_PUBLIC_REPO_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
