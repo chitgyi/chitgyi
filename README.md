@@ -9,4 +9,17 @@
 <hr />
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 January 2022 - To: 03 September 2023
+
+Total Time: 166 hrs 53 mins
+
+Dart               61 hrs 23 mins  █████████░░░░░░░░░░░░░░░░   36.22 %
+PHP                51 hrs 5 mins   ███████▓░░░░░░░░░░░░░░░░░   30.15 %
+Blade Template     44 hrs 12 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
+JavaScript         3 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Other              2 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+```
+
 <!--END_SECTION:waka-->
