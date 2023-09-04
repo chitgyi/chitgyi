@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
     permissions:
-      contents: read, write # Add read and write permissions here
+      contents: read
 
     steps:
       - uses: actions/checkout@v3
